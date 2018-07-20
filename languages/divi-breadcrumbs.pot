@@ -1,0 +1,39 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Divi Breadcrumbs plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-20 12:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Description of the plugin
+msgid "Add Breadcrumbs for the DIVI theme"
+msgstr ""
+
+#. Name of the plugin
+msgid "Divi Breadcrumbs plugin"
+msgstr ""
+
+#: includes/Breadcrumbs.php:10
+msgid "Home"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://github.com/trueqap/Divi-Breadcrumbs-plugin"
+msgstr ""
+
+#. Author of the plugin
+msgid "trueQAP"
+msgstr ""
+
+msgid "Search results for: "
+msgstr "Keresési találatok: "
